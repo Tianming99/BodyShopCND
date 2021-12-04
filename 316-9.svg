@@ -1,0 +1,53 @@
+<svg width="430" height="620" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect height="622" width="432" y="-1" x="-1" fill="none" id="canvas_background"/>
+  <g y="0" x="0" height="100%" width="100%" display="none" overflow="visible" id="canvasGrid">
+   <rect height="100%" width="100%" y="0" x="0" stroke-width="0" fill="url(#gridpattern)" id="svg_1"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g name="分装" id="svg_2">
+   <rect height="308" width="58" y="12" x="10.8889" stroke-width="1.5" fill="#b0cc35" id="svg_3"/>
+   <rect height="27.4872" width="103.051" y="320" x="10.8889" stroke-width="1.5" fill="#b0cc35" id="svg_13"/>
+  </g>
+  <rect name="下部一" height="303" width="42.5" y="12.5128" x="72.4065" stroke-width="1.5" stroke="#000" fill="#b0cc35" id="svg_4"/>
+  <rect name="下部二" height="336" width="56" y="12" x="117.896" stroke-width="1.5" stroke="#000" fill="#b0cc35" id="svg_5"/>
+  <rect name="主焊" height="194" width="189.359" y="12" x="177.383" stroke-width="1.5" stroke="#000" fill="#b0cc35" id="svg_6"/>
+  <rect name="侧围" height="138" width="142" y="210" x="177.383" stroke-width="1.5" stroke="#000" fill="#b0cc35" id="svg_7"/>
+  <rect name="四门" height="169.829" width="47" y="209.897" x="370.922" stroke-width="1.5" stroke="#000" fill="#b0cc35" id="svg_8"/>
+  <rect name="调整" height="392.659" width="43" y="210.726" x="323.922" stroke-width="1.5" stroke="#000" fill="#b0cc35" id="svg_9"/>
+  <rect name="两盖" height="216.171" width="47" y="386.542" x="370.922" stroke-width="1.5" stroke="#000" fill="#b0cc35" id="svg_10"/>
+  <line y2="13.6098" x2="67.8931" y1="12.6098" x1="10.8889" stroke-width="1.5" stroke-linejoin="null" stroke-linecap="null" fill-opacity="null" fill="none" id="svg_14"/>
+  <line y2="14" x2="9.88889" y1="350" x1="10.8889" stroke-width="1.5" stroke-linejoin="null" stroke-linecap="null" fill-opacity="null" fill="none" id="svg_15"/>
+  <line y2="27" x2="68.8932" y1="12" x1="11.8889" stroke-width="1.5" stroke-linejoin="null" stroke-linecap="null" fill="none" id="svg_16"/>
+  <rect height="67" width="215" y="353.39" x="104.785" stroke-width="1.5" stroke="#000000" fill="#b0cc35" id="svg_20"/>
+  <line y2="12" x2="11.4987" y1="349" x1="11.4987" stroke-width="1.5" stroke-opacity="null" stroke-linejoin="null" stroke-linecap="null" stroke="#000000" fill-opacity="null" fill="none" id="svg_24"/>
+  <line y2="348.513" x2="10.8889" y1="348.513" x1="114.896" stroke-width="1.5" stroke-opacity="null" stroke-linejoin="null" stroke-linecap="null" stroke="#000000" fill-opacity="null" fill="none" id="svg_25"/>
+  <line y2="320" x2="69.8412" y1="13" x1="68.8411" stroke-width="1.5" stroke-opacity="null" stroke-linejoin="null" stroke-linecap="null" stroke="#000000" fill-opacity="null" fill="none" id="svg_26"/>
+  <line y2="319" x2="69.8932" y1="319" x1="114.896" stroke-width="1.5" stroke-opacity="null" stroke-linejoin="null" stroke-linecap="null" stroke="#000000" fill-opacity="null" fill="none" id="svg_27"/>
+  <line y2="319" x2="113.948" y1="348" x1="113.948" stroke-width="1.5" stroke-opacity="null" stroke-linejoin="null" stroke-linecap="null" stroke="#000000" fill-opacity="null" fill="none" id="svg_28"/>
+  <text xml:space="preserve" y="75.3887" x="27.2228" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_31">下</text>
+  <text xml:space="preserve" y="110.9442" x="27.2228" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_32">部</text>
+  <text xml:space="preserve" y="155.3887" x="27.2228" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_33">分</text>
+  <text xml:space="preserve" y="199.8333" x="27.2228" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_34">装</text>
+  <text xml:space="preserve" y="75.3887" x="77.2228" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_35">下</text>
+  <text xml:space="preserve" y="110.9442" x="77.2228" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_36">部</text>
+  <text xml:space="preserve" y="75.3887" x="128.3339" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_37">下</text>
+  <text xml:space="preserve" y="110.9442" x="128.3339" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_38">部</text>
+  <text xml:space="preserve" y="155.3887" x="77.2229" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_39">一</text>
+  <text xml:space="preserve" y="152.0554" x="128.334" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_40">二</text>
+  <text xml:space="preserve" y="80.9443" x="238.9586" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_41">主焊</text>
+  <text xml:space="preserve" y="259.8332" x="219.445" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_43">侧围</text>
+  <text xml:space="preserve" y="262.0554" x="328.3339" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_44">调</text>
+  <text xml:space="preserve" y="300.9442" x="328.3339" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_45">整</text>
+  <text xml:space="preserve" y="263.1665" x="379.445" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_46">四</text>
+  <text xml:space="preserve" y="302.0553" x="379.445" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_47">门</text>
+  <text xml:space="preserve" y="431.8793" x="378.3339" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_50">两</text>
+  <text xml:space="preserve" y="469.657" x="378.3339" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill-opacity="null" fill="#000000" font-size="30px" font-family="Helvetica,Arial,sans-serif" id="svg_51">盖</text>
+  <path d="m253.374115,365.250824l9.761383,0l3.016663,-8.912567l3.016785,8.912567l9.760712,0l-7.896454,5.508484l3.016113,8.912262l-7.897156,-5.507965l-7.897095,5.507965l3.016449,-8.912262l-7.8974,-5.508484l0,0z" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill="#ff0000" id="svg_52"/>
+ </g>
+</svg>
